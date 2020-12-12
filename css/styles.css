@@ -5,8 +5,8 @@
   /* Colors */
   --white-color: #ffffff;
   --black-color: #050505;
-  --title-text-color: #969696;
-  --primary-text-color: #616161;
+  --title-text-color: #838797;
+  --primary-text-color: #6e73a5;
   --accent-color: rgba(5, 5, 5, 0.829);
   --lighter-accent-color: rgba(155, 128, 41, 0.829);
 }
@@ -281,7 +281,7 @@ video {
     min-width: 100%;
     font-size: 10px;
     margin-left: -30px;
-    padding-top: 10px;
+    padding-top: 15px;
     padding-bottom: 10px;
   }
   .header:before {
@@ -323,10 +323,12 @@ video {
     margin-left: -30px;
   }
   .contacts {
+    text-align: center;
     min-width: 100%;
-    margin-left: -30px;
+    margin-left: -60px;
   }
   .copyright {
+    text-align: center;
     width: 100%;
   }
 }
