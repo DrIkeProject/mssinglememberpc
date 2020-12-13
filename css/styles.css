@@ -132,6 +132,7 @@ video {
   margin-bottom: 15px;
   position: relative;
   z-index: 2;
+  text-decoration: underline;
 }
 .header-element {
   display: flex;
