@@ -1,2 +1,2 @@
-# mssinglememberpc
-Μ. ΣΑΛΙΚΧΩΒ ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.
+# swsinglememberpc
+SCHWARZWALD INVESTMENTS ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.
